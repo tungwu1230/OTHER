@@ -50,5 +50,5 @@ guessing(1,100)
     恭喜答對，正確答案是33，您猜了5次
 
 ## 答案與作答結果
-[Ans](https://nbviewer.jupyter.org/github/tungwu1230/OTHER/blob/main/week1/Guessing%20Number%20Game.ipynb)
-[Benson](https://nbviewer.jupyter.org/github/tungwu1230/OTHER/blob/main/week1/Guessing%20Number%20Game%20Benson.ipynb)
+[Tung Ans](https://nbviewer.jupyter.org/github/tungwu1230/OTHER/blob/main/week1/Guessing%20Number%20Game.ipynb)  
+[Benson Ans](https://nbviewer.jupyter.org/github/tungwu1230/OTHER/blob/main/week1/Guessing%20Number%20Game%20Benson.ipynb)
